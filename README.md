@@ -1,5 +1,12 @@
 <h1 align="center"> Hello there! 👋</h1>
-<h3 align="center">I'm Elias, a junior software developer with a lifelong fascination for logic 🧠, which naturally guided me into the realm of programming 💻. I derive immense joy from crafting code ✍️, where the art of problem-solving 🧩 and logical thinking 🤔 intertwine. Currently, I'm dedicated to my Capstone project, 'Cup With Me 🏆.' Explore my repositories 📂, and if you have any questions ❓, don't hesitate to reach out! 📬</h3>
+<h3 align="center">
+I'm Elias, a junior software developer with a lifelong fascination for logic 🧠, which naturally guided me into the realm of programming 💻. I derive immense joy from crafting code ✍️, where the art of problem-solving 🧩 and logical thinking 🤔 intertwine.
+
+🌱 I'm currently diving deep into the world of Clean and Hexagonal Architecture, with a focus on building robust and maintainable software systems. My latest project is a Food Ordering System 🍔🥗, where I'm applying these architectural principles to create efficient and scalable solutions.
+
+📂 Feel free to explore my repositories to see my journey in code. If you have any questions or just want to connect, don't hesitate to reach out! 📬
+
+</h3>
 <br>
 <br>
 <br>
@@ -10,10 +17,12 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eliasyazdani" alt="eliasyazdani" /></a> </p>
 
-<p align= "center">- 🔭 I’m currently working on <a href="http://ec2-18-194-137-76.eu-central-1.compute.amazonaws.com/">Cup With Me🏆</a>
+<p align= "center">- 🔭 I’m currently working on <a href="https://github.com/eliasYazdani/MicroservicesWithCleanAndHexagonalArchitectures-FoodOrderingSystem">MicroservicesWithCleanAndHexagonalArchitectures-FoodOrderingSystem</a>
+  </p>
+<p align= "center">- <a href="http://ec2-18-194-137-76.eu-central-1.compute.amazonaws.com/">Cup With Me🏆</a>
   </p>
 
-<p align= "center">- 👨‍💻 All of my projects are available at <a href="https://github.com/eliasYazdani/CupWithMe">eliasYazdani/CupWithMe</a></p>
+<p align= "center">- 👨‍💻 All of my projects are available at <a href="https://github.com/eliasYazdani?tab=repositories">eliasYazdani/Projects</a></p>
 
 <p align= "center">- 📫 How to reach me **elias_yazdani@yahoo.com**</p>
 <br>
